@@ -1,0 +1,7 @@
+
+{
+  "appId": "com.piggerypro.app",
+  "appName": "PiggeryPro",
+  "webDir": ".",
+  "bundledWebRuntime": false
+}
