@@ -1,0 +1,12 @@
+{
+  "name": "PiggeryPro Manager",
+  "short_name": "PiggeryPro",
+  "start_url": "/piggerypro-manager/",
+  "scope": "/piggerypro-manager/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#111827",
+  "icons": [
+    { "src": "/piggerypro-manager/icons/PigIcon.png", "sizes": "247x207", "type": "image/png" }
+  ]
+}
